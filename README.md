@@ -63,8 +63,3 @@ A simple To-Do List application built using **HTML, CSS, and JavaScript**. It al
 - Task Categories
 - Responsive Design
 
-## 👨‍💻 Author
-
-**Shubham Saraswat**
-
-GitHub: *Add your GitHub profile here*
